@@ -1536,7 +1536,6 @@ img {
 
 .contact-form .form-select {
   color: var(--color-text);
-}
   width: 1.125rem;
   height: 1.125rem;
   border: 2px solid var(--color-gray-300);
